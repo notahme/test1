@@ -21,7 +21,10 @@ client9.login(process.env.TOKEN9);
 client10.login(process.env.TOKEN10);
 var qeys=['ass','pussy','fuck','nude']
 client.on('message', message => {
-    if (message.content.startsWith("$B1 ASS")){
+	if (message.content.startsWith("$help)){
+				       message.channel.send('kl z8')
+				       }
+	if else (message.content.startsWith("$B1 ASS")){
         message.channel.send('^^ass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
