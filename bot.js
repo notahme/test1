@@ -23,6 +23,8 @@ var qeys=['ass','pussy','fuck','nude']
 client.on('message', message => {
 	if (message.content.startsWith("$help")){
 		var msg = [
+"`**NSFW Commands**`",
+"`**Try This TAGS $B1 / $B2**`",
 "**$B(1,2) porninfifteenseconds (number)**",
 "**$B(1,2) amateur (number)**",
 "**$B(1,2) anal (number)**",
