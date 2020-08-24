@@ -12,30 +12,12 @@ client4.login(process.env.TOKEN4);
 client5.login(process.env.TOKEN5);
 var qeys=['ass','pussy','fuck','nude']
 client.on('message', message => {
-    if (message.content === '$VIP') {
-        message.channel.send('^^pussy')
-        var i = 1;
-        var myinter = setInterval(function fun(){
-            function random(mn, mx) {  
-                return Math.random() * (mx - mn) + mn;  
-            }  
-            function GFG_Fun() { 
-                var tagy = qeys[Math.floor(random(1, 5))-1]; 
-            }
-            GFG_Fun();
-            message.channel.send(tagy)
-            i++;
-            if (i==4){
-                clearInterval(myinter)
-            }
-        },12000)
-       
-    }
+  
     if (message.content === '$Begin PUSSY') {
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -45,10 +27,10 @@ client.on('message', message => {
     }
 
     else if (message.content === '$Begin ASS') {
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -57,10 +39,10 @@ client.on('message', message => {
        
     }
     else if (message.content === '$Begin FUCK') {
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -69,10 +51,10 @@ client.on('message', message => {
        
     }
     else if (message.content === '$Begin NUDE') {
-        message.channel.send('^^nudes')
+        message.channel.send('^nudes')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^nudes')
+            message.channel.send('^nudes')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -83,7 +65,7 @@ client.on('message', message => {
 
 
     else if (message.content.startsWith("$Begin ASS")){
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -98,7 +80,7 @@ client.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -109,7 +91,7 @@ client.on('message', message => {
         },12000)
     }
     else if (message.content.startsWith("$Begin PUSSY")){
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -124,7 +106,7 @@ client.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -136,7 +118,7 @@ client.on('message', message => {
     }
     
     else if (message.content.startsWith("$Begin FUCK")){
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -151,7 +133,7 @@ client.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -163,7 +145,7 @@ client.on('message', message => {
     }
 
     else if (message.content.startsWith("$Begin NUDE")){
-        message.channel.send('^^nude')
+        message.channel.send('^nude')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -178,7 +160,7 @@ client.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^nude')
+            message.channel.send('^nude')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -194,10 +176,10 @@ client.on('message', message => {
 
 client2.on('message', message => {
     if (message.content === '$Begin PUSSY') {
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -207,10 +189,10 @@ client2.on('message', message => {
     }
 
     else if (message.content === '$Begin ASS') {
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -219,10 +201,10 @@ client2.on('message', message => {
        
     }
     else if (message.content === '$Begin FUCK') {
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -231,10 +213,10 @@ client2.on('message', message => {
        
     }
     else if (message.content === '$Begin NUDE') {
-        message.channel.send('^^nudes')
+        message.channel.send('^nudes')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^nudes')
+            message.channel.send('^nudes')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -245,7 +227,7 @@ client2.on('message', message => {
 
 
     else if (message.content.startsWith("$Begin ASS")){
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -260,7 +242,7 @@ client2.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -271,7 +253,7 @@ client2.on('message', message => {
         },12000)
     }
     else if (message.content.startsWith("$Begin PUSSY")){
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -286,7 +268,7 @@ client2.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -298,7 +280,7 @@ client2.on('message', message => {
     }
     
     else if (message.content.startsWith("$Begin FUCK")){
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -313,7 +295,7 @@ client2.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -325,7 +307,7 @@ client2.on('message', message => {
     }
 
     else if (message.content.startsWith("$Begin NUDE")){
-        message.channel.send('^^nude')
+        message.channel.send('^nude')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -340,7 +322,7 @@ client2.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^nude')
+            message.channel.send('^nude')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -356,10 +338,10 @@ client2.on('message', message => {
 
 client3.on('message', message => {
     if (message.content === '$Begin PUSSY') {
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -369,10 +351,10 @@ client3.on('message', message => {
     }
 
     else if (message.content === '$Begin ASS') {
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -381,10 +363,10 @@ client3.on('message', message => {
        
     }
     else if (message.content === '$Begin FUCK') {
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -393,10 +375,10 @@ client3.on('message', message => {
        
     }
     else if (message.content === '$Begin NUDE') {
-        message.channel.send('^^nudes')
+        message.channel.send('^nudes')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^nudes')
+            message.channel.send('^nudes')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -407,7 +389,7 @@ client3.on('message', message => {
 
 
     else if (message.content.startsWith("$Begin ASS")){
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -422,7 +404,7 @@ client3.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -433,7 +415,7 @@ client3.on('message', message => {
         },12000)
     }
     else if (message.content.startsWith("$Begin PUSSY")){
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -448,7 +430,7 @@ client3.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -460,7 +442,7 @@ client3.on('message', message => {
     }
     
     else if (message.content.startsWith("$Begin FUCK")){
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -475,7 +457,7 @@ client3.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -487,7 +469,7 @@ client3.on('message', message => {
     }
 
     else if (message.content.startsWith("$Begin NUDE")){
-        message.channel.send('^^nude')
+        message.channel.send('^nude')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -502,7 +484,7 @@ client3.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^nude')
+            message.channel.send('^nude')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -518,10 +500,10 @@ client3.on('message', message => {
 
 client4.on('message', message => {
     if (message.content === '$Begin PUSSY') {
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -531,10 +513,10 @@ client4.on('message', message => {
     }
 
     else if (message.content === '$Begin ASS') {
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -543,10 +525,10 @@ client4.on('message', message => {
        
     }
     else if (message.content === '$Begin FUCK') {
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -555,10 +537,10 @@ client4.on('message', message => {
        
     }
     else if (message.content === '$Begin NUDE') {
-        message.channel.send('^^nudes')
+        message.channel.send('^nudes')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^nudes')
+            message.channel.send('^nudes')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -569,7 +551,7 @@ client4.on('message', message => {
 
 
     else if (message.content.startsWith("$Begin ASS")){
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -584,7 +566,7 @@ client4.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -595,7 +577,7 @@ client4.on('message', message => {
         },12000)
     }
     else if (message.content.startsWith("$Begin PUSSY")){
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -610,7 +592,7 @@ client4.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -622,7 +604,7 @@ client4.on('message', message => {
     }
     
     else if (message.content.startsWith("$Begin FUCK")){
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -637,7 +619,7 @@ client4.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -649,7 +631,7 @@ client4.on('message', message => {
     }
 
     else if (message.content.startsWith("$Begin NUDE")){
-        message.channel.send('^^nude')
+        message.channel.send('^nude')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -664,7 +646,7 @@ client4.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^nude')
+            message.channel.send('^nude')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -680,10 +662,10 @@ client4.on('message', message => {
 
 client5.on('message', message => {
     if (message.content === '$Begin PUSSY') {
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -693,10 +675,10 @@ client5.on('message', message => {
     }
 
     else if (message.content === '$Begin ASS') {
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -705,10 +687,10 @@ client5.on('message', message => {
        
     }
     else if (message.content === '$Begin FUCK') {
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -717,10 +699,10 @@ client5.on('message', message => {
        
     }
     else if (message.content === '$Begin NUDE') {
-        message.channel.send('^^nudes')
+        message.channel.send('^nudes')
         var i = 1;
         var myinter = setInterval(function fun(){
-            message.channel.send('^^nudes')
+            message.channel.send('^nudes')
             i++;
             if (i==2){
                 clearInterval(myinter)
@@ -731,7 +713,7 @@ client5.on('message', message => {
 
 
     else if (message.content.startsWith("$Begin ASS")){
-        message.channel.send('^^ass')
+        message.channel.send('^ass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -746,7 +728,7 @@ client5.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^ass')
+            message.channel.send('^ass')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -757,7 +739,7 @@ client5.on('message', message => {
         },12000)
     }
     else if (message.content.startsWith("$Begin PUSSY")){
-        message.channel.send('^^pussy')
+        message.channel.send('^pussy')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -772,7 +754,7 @@ client5.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^pussy')
+            message.channel.send('^pussy')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -784,7 +766,7 @@ client5.on('message', message => {
     }
     
     else if (message.content.startsWith("$Begin FUCK")){
-        message.channel.send('^^fuck')
+        message.channel.send('^fuck')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -799,7 +781,7 @@ client5.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^fuck')
+            message.channel.send('^fuck')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
@@ -811,7 +793,7 @@ client5.on('message', message => {
     }
 
     else if (message.content.startsWith("$Begin NUDE")){
-        message.channel.send('^^nude')
+        message.channel.send('^nude')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
         var str = message.content;
@@ -826,7 +808,7 @@ client5.on('message', message => {
             var wrd = 5;
         }
         var myinter = setInterval(function func(){
-            message.channel.send('^^nude')
+            message.channel.send('^nude')
             i++;
             if (isNaN(wrd)){
                 clearInterval(myinter)
