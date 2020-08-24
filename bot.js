@@ -20,7 +20,7 @@ client8.login(process.env.TOKEN8);
 client9.login(process.env.TOKEN9);
 client10.login(process.env.TOKEN10);
 var qeys=['ass','pussy','fuck','nude']
-client1.on('message', message => {
+client.on('message', message => {
     if (message.content.startsWith("$B1 ASS")){
         message.channel.send('^^ass')
         var wrd ='';
