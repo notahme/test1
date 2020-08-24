@@ -1774,7 +1774,7 @@ else if (message.content.startsWith("$B1 yoga")){
         },3000)
     }
 });
-/*
+
 client2.on('message', message => {
     if (message.content.startsWith("$B1 ASS")){
         message.channel.send('^^ass')
