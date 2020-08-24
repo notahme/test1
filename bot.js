@@ -22,7 +22,7 @@ client10.login(process.env.TOKEN10);
 var qeys=['ass','pussy','fuck','nude']
 client.on('message', message => {
 	if (message.content.startsWith("$help")){
-		message.channel.send(""**$B(1,2) porninfifteenseconds (number)**"+
+		message.channel.send("**$B(1,2) porninfifteenseconds (number)**"+
 "**$B(1,2) amateur (number)**"+
 "**$B(1,2) anal (number)**"+
 "**$B(1,2) ass (number)**"+
