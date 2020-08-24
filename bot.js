@@ -24,7 +24,7 @@ client.on('message', message => {
   
 
 
-    if (message.content.startsWith("$Begin ASS")){
+    if (message.content.startsWith("$B ASS")){
         message.channel.send('^^ass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -50,7 +50,7 @@ client.on('message', message => {
             }
         },12000)
     }
-    else if (message.content.startsWith("$Begin PUSSY")){
+    else if (message.content.startsWith("$B PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -77,7 +77,7 @@ client.on('message', message => {
         },12000)
     }
     
-    else if (message.content.startsWith("$Begin FUCK")){
+    else if (message.content.startsWith("$B FUCK")){
         message.channel.send('^^fuck')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -104,7 +104,7 @@ client.on('message', message => {
         },12000)
     }
 
-    else if (message.content.startsWith("$Begin NUDE")){
+    else if (message.content.startsWith("$B NUDE")){
         message.channel.send('^^nude')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -130,7 +130,7 @@ client.on('message', message => {
             }
         },12000)
     }
-    else if (message.content.startsWith("$Begin porninfifteenseconds")){
+    else if (message.content.startsWith("$B porninfifteenseconds")){
         message.channel.send('-porninfifteenseconds')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -140,7 +140,7 @@ client.on('message', message => {
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -157,7 +157,7 @@ client.on('message', message => {
         },4000)
     }
         
-else if (message.content.startsWith("$Begin amateur")){
+else if (message.content.startsWith("$B amateur")){
         message.channel.send('-amateur')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -167,7 +167,7 @@ else if (message.content.startsWith("$Begin amateur")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -184,7 +184,7 @@ else if (message.content.startsWith("$Begin amateur")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin anal")){
+else if (message.content.startsWith("$B anal")){
         message.channel.send('-anal')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -194,7 +194,7 @@ else if (message.content.startsWith("$Begin anal")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -211,7 +211,7 @@ else if (message.content.startsWith("$Begin anal")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin ass")){
+else if (message.content.startsWith("$B ass")){
         message.channel.send('-ass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -221,7 +221,7 @@ else if (message.content.startsWith("$Begin ass")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -238,7 +238,7 @@ else if (message.content.startsWith("$Begin ass")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin asian")){
+else if (message.content.startsWith("$B asian")){
         message.channel.send('-asian')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -248,7 +248,7 @@ else if (message.content.startsWith("$Begin asian")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -265,7 +265,7 @@ else if (message.content.startsWith("$Begin asian")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin bbw")){
+else if (message.content.startsWith("$B bbw")){
         message.channel.send('-bbw')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -275,7 +275,7 @@ else if (message.content.startsWith("$Begin bbw")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -292,7 +292,7 @@ else if (message.content.startsWith("$Begin bbw")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin bdsm")){
+else if (message.content.startsWith("$B bdsm")){
         message.channel.send('-bdsm')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -302,7 +302,7 @@ else if (message.content.startsWith("$Begin bdsm")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -319,7 +319,7 @@ else if (message.content.startsWith("$Begin bdsm")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin bigass")){
+else if (message.content.startsWith("$B bigass")){
         message.channel.send('-bigass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -329,7 +329,7 @@ else if (message.content.startsWith("$Begin bigass")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -346,7 +346,7 @@ else if (message.content.startsWith("$Begin bigass")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin bigboobs")){
+else if (message.content.startsWith("$B bigboobs")){
         message.channel.send('-bigboobs')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -356,7 +356,7 @@ else if (message.content.startsWith("$Begin bigboobs")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -373,7 +373,7 @@ else if (message.content.startsWith("$Begin bigboobs")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin blondes")){
+else if (message.content.startsWith("$B blondes")){
         message.channel.send('-blondes')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -383,7 +383,7 @@ else if (message.content.startsWith("$Begin blondes")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -400,7 +400,7 @@ else if (message.content.startsWith("$Begin blondes")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin blowjob")){
+else if (message.content.startsWith("$B blowjob")){
         message.channel.send('-blowjob')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -410,7 +410,7 @@ else if (message.content.startsWith("$Begin blowjob")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -427,7 +427,7 @@ else if (message.content.startsWith("$Begin blowjob")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin boobs")){
+else if (message.content.startsWith("$B boobs")){
         message.channel.send('-boobs')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -437,7 +437,7 @@ else if (message.content.startsWith("$Begin boobs")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -454,7 +454,7 @@ else if (message.content.startsWith("$Begin boobs")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin boredandignored")){
+else if (message.content.startsWith("$B boredandignored")){
         message.channel.send('-boredandignored')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -464,7 +464,7 @@ else if (message.content.startsWith("$Begin boredandignored")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -481,7 +481,7 @@ else if (message.content.startsWith("$Begin boredandignored")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin busty")){
+else if (message.content.startsWith("$B busty")){
         message.channel.send('-busty')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -491,7 +491,7 @@ else if (message.content.startsWith("$Begin busty")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -508,7 +508,7 @@ else if (message.content.startsWith("$Begin busty")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin cam")){
+else if (message.content.startsWith("$B cam")){
         message.channel.send('-cam')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -518,7 +518,7 @@ else if (message.content.startsWith("$Begin cam")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -535,7 +535,7 @@ else if (message.content.startsWith("$Begin cam")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin cameltoe")){
+else if (message.content.startsWith("$B cameltoe")){
         message.channel.send('-cameltoe')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -545,7 +545,7 @@ else if (message.content.startsWith("$Begin cameltoe")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -562,7 +562,7 @@ else if (message.content.startsWith("$Begin cameltoe")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin changingroom")){
+else if (message.content.startsWith("$B changingroom")){
         message.channel.send('-changingroom')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -572,7 +572,7 @@ else if (message.content.startsWith("$Begin changingroom")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -589,7 +589,7 @@ else if (message.content.startsWith("$Begin changingroom")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin cheerleader")){
+else if (message.content.startsWith("$B cheerleader")){
         message.channel.send('-cheerleader')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -599,7 +599,7 @@ else if (message.content.startsWith("$Begin cheerleader")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -616,7 +616,7 @@ else if (message.content.startsWith("$Begin cheerleader")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin chinese")){
+else if (message.content.startsWith("$B chinese")){
         message.channel.send('-chinese')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -626,7 +626,7 @@ else if (message.content.startsWith("$Begin chinese")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -643,7 +643,7 @@ else if (message.content.startsWith("$Begin chinese")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin college")){
+else if (message.content.startsWith("$B college")){
         message.channel.send('-college')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -653,7 +653,7 @@ else if (message.content.startsWith("$Begin college")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -670,7 +670,7 @@ else if (message.content.startsWith("$Begin college")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin cosplay")){
+else if (message.content.startsWith("$B cosplay")){
         message.channel.send('-cosplay')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -680,7 +680,7 @@ else if (message.content.startsWith("$Begin cosplay")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -697,7 +697,7 @@ else if (message.content.startsWith("$Begin cosplay")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin couples")){
+else if (message.content.startsWith("$B couples")){
         message.channel.send('-couples')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -707,7 +707,7 @@ else if (message.content.startsWith("$Begin couples")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -724,7 +724,7 @@ else if (message.content.startsWith("$Begin couples")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin cumslut")){
+else if (message.content.startsWith("$B cumslut")){
         message.channel.send('-cumslut')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -734,7 +734,7 @@ else if (message.content.startsWith("$Begin cumslut")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -751,7 +751,7 @@ else if (message.content.startsWith("$Begin cumslut")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin dp")){
+else if (message.content.startsWith("$B dp")){
         message.channel.send('-dp')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -761,7 +761,7 @@ else if (message.content.startsWith("$Begin dp")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -778,7 +778,7 @@ else if (message.content.startsWith("$Begin dp")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin fyiff")){
+else if (message.content.startsWith("$B fyiff")){
         message.channel.send('-fyiff')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -788,7 +788,7 @@ else if (message.content.startsWith("$Begin fyiff")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -805,7 +805,7 @@ else if (message.content.startsWith("$Begin fyiff")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin facefuck")){
+else if (message.content.startsWith("$B facefuck")){
         message.channel.send('-facefuck')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -815,7 +815,7 @@ else if (message.content.startsWith("$Begin facefuck")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -832,7 +832,7 @@ else if (message.content.startsWith("$Begin facefuck")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin facial")){
+else if (message.content.startsWith("$B facial")){
         message.channel.send('-facial')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -842,7 +842,7 @@ else if (message.content.startsWith("$Begin facial")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -859,7 +859,7 @@ else if (message.content.startsWith("$Begin facial")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin fisting")){
+else if (message.content.startsWith("$B fisting")){
         message.channel.send('-fisting')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -869,7 +869,7 @@ else if (message.content.startsWith("$Begin fisting")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -886,7 +886,7 @@ else if (message.content.startsWith("$Begin fisting")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin flashing")){
+else if (message.content.startsWith("$B flashing")){
         message.channel.send('-flashing')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -896,7 +896,7 @@ else if (message.content.startsWith("$Begin flashing")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -913,7 +913,7 @@ else if (message.content.startsWith("$Begin flashing")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin fuck")){
+else if (message.content.startsWith("$B fuck")){
         message.channel.send('-fuck')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -923,7 +923,7 @@ else if (message.content.startsWith("$Begin fuck")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -940,7 +940,7 @@ else if (message.content.startsWith("$Begin fuck")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin gangbang")){
+else if (message.content.startsWith("$B gangbang")){
         message.channel.send('-gangbang')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -950,7 +950,7 @@ else if (message.content.startsWith("$Begin gangbang")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -967,7 +967,7 @@ else if (message.content.startsWith("$Begin gangbang")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin gif")){
+else if (message.content.startsWith("$B gif")){
         message.channel.send('-gif')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -977,7 +977,7 @@ else if (message.content.startsWith("$Begin gif")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -994,7 +994,7 @@ else if (message.content.startsWith("$Begin gif")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin group")){
+else if (message.content.startsWith("$B group")){
         message.channel.send('-group')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1004,7 +1004,7 @@ else if (message.content.startsWith("$Begin group")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1021,7 +1021,7 @@ else if (message.content.startsWith("$Begin group")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin gyiff")){
+else if (message.content.startsWith("$B gyiff")){
         message.channel.send('-gyiff')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1031,7 +1031,7 @@ else if (message.content.startsWith("$Begin gyiff")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1048,7 +1048,7 @@ else if (message.content.startsWith("$Begin gyiff")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin hairy")){
+else if (message.content.startsWith("$B hairy")){
         message.channel.send('-hairy')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1058,7 +1058,7 @@ else if (message.content.startsWith("$Begin hairy")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1075,7 +1075,7 @@ else if (message.content.startsWith("$Begin hairy")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin hardcore")){
+else if (message.content.startsWith("$B hardcore")){
         message.channel.send('-hardcore')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1085,7 +1085,7 @@ else if (message.content.startsWith("$Begin hardcore")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1102,7 +1102,7 @@ else if (message.content.startsWith("$Begin hardcore")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin hentai")){
+else if (message.content.startsWith("$B hentai")){
         message.channel.send('-hentai')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1112,7 +1112,7 @@ else if (message.content.startsWith("$Begin hentai")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1129,7 +1129,7 @@ else if (message.content.startsWith("$Begin hentai")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin indian")){
+else if (message.content.startsWith("$B indian")){
         message.channel.send('-indian')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1139,7 +1139,7 @@ else if (message.content.startsWith("$Begin indian")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1156,7 +1156,7 @@ else if (message.content.startsWith("$Begin indian")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin japanese")){
+else if (message.content.startsWith("$B japanese")){
         message.channel.send('-japanese')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1166,7 +1166,7 @@ else if (message.content.startsWith("$Begin japanese")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1183,7 +1183,7 @@ else if (message.content.startsWith("$Begin japanese")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin korean")){
+else if (message.content.startsWith("$B korean")){
         message.channel.send('-korean')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1193,7 +1193,7 @@ else if (message.content.startsWith("$Begin korean")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1210,7 +1210,7 @@ else if (message.content.startsWith("$Begin korean")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin lesbian")){
+else if (message.content.startsWith("$B lesbian")){
         message.channel.send('-lesbian')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1220,7 +1220,7 @@ else if (message.content.startsWith("$Begin lesbian")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1237,7 +1237,7 @@ else if (message.content.startsWith("$Begin lesbian")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin milf")){
+else if (message.content.startsWith("$B milf")){
         message.channel.send('-milf')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1247,7 +1247,7 @@ else if (message.content.startsWith("$Begin milf")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1264,7 +1264,7 @@ else if (message.content.startsWith("$Begin milf")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin orgasm")){
+else if (message.content.startsWith("$B orgasm")){
         message.channel.send('-orgasm')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1274,7 +1274,7 @@ else if (message.content.startsWith("$Begin orgasm")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1291,7 +1291,7 @@ else if (message.content.startsWith("$Begin orgasm")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin pawg")){
+else if (message.content.startsWith("$B pawg")){
         message.channel.send('-pawg')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1301,7 +1301,7 @@ else if (message.content.startsWith("$Begin pawg")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1318,7 +1318,7 @@ else if (message.content.startsWith("$Begin pawg")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin pool")){
+else if (message.content.startsWith("$B pool")){
         message.channel.send('-pool')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1328,7 +1328,7 @@ else if (message.content.startsWith("$Begin pool")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1345,7 +1345,7 @@ else if (message.content.startsWith("$Begin pool")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin pornsearch")){
+else if (message.content.startsWith("$B pornsearch")){
         message.channel.send('-pornsearch')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1355,7 +1355,7 @@ else if (message.content.startsWith("$Begin pornsearch")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1372,7 +1372,7 @@ else if (message.content.startsWith("$Begin pornsearch")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin pornstars")){
+else if (message.content.startsWith("$B pornstars")){
         message.channel.send('-pornstars')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1382,7 +1382,7 @@ else if (message.content.startsWith("$Begin pornstars")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1399,7 +1399,7 @@ else if (message.content.startsWith("$Begin pornstars")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin pov")){
+else if (message.content.startsWith("$B pov")){
         message.channel.send('-pov')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1409,7 +1409,7 @@ else if (message.content.startsWith("$Begin pov")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1426,7 +1426,7 @@ else if (message.content.startsWith("$Begin pov")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin public")){
+else if (message.content.startsWith("$B public")){
         message.channel.send('-public')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1436,7 +1436,7 @@ else if (message.content.startsWith("$Begin public")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1453,7 +1453,7 @@ else if (message.content.startsWith("$Begin public")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin pussy")){
+else if (message.content.startsWith("$B pussy")){
         message.channel.send('-pussy')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1463,7 +1463,7 @@ else if (message.content.startsWith("$Begin pussy")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1480,7 +1480,7 @@ else if (message.content.startsWith("$Begin pussy")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin redheads")){
+else if (message.content.startsWith("$B redheads")){
         message.channel.send('-redheads')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1490,7 +1490,7 @@ else if (message.content.startsWith("$Begin redheads")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1507,7 +1507,7 @@ else if (message.content.startsWith("$Begin redheads")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin scissoring")){
+else if (message.content.startsWith("$B scissoring")){
         message.channel.send('-scissoring')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1517,7 +1517,7 @@ else if (message.content.startsWith("$Begin scissoring")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1534,7 +1534,7 @@ else if (message.content.startsWith("$Begin scissoring")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin smallass")){
+else if (message.content.startsWith("$B smallass")){
         message.channel.send('-smallass')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1544,7 +1544,7 @@ else if (message.content.startsWith("$Begin smallass")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1561,7 +1561,7 @@ else if (message.content.startsWith("$Begin smallass")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin smallboobs")){
+else if (message.content.startsWith("$B smallboobs")){
         message.channel.send('-smallboobs')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1571,7 +1571,7 @@ else if (message.content.startsWith("$Begin smallboobs")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1588,7 +1588,7 @@ else if (message.content.startsWith("$Begin smallboobs")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin snapchat")){
+else if (message.content.startsWith("$B snapchat")){
         message.channel.send('-snapchat')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1598,7 +1598,7 @@ else if (message.content.startsWith("$Begin snapchat")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1615,7 +1615,7 @@ else if (message.content.startsWith("$Begin snapchat")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin squirting")){
+else if (message.content.startsWith("$B squirting")){
         message.channel.send('-squirting')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1625,7 +1625,7 @@ else if (message.content.startsWith("$Begin squirting")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1642,7 +1642,7 @@ else if (message.content.startsWith("$Begin squirting")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin thighs")){
+else if (message.content.startsWith("$B thighs")){
         message.channel.send('-thighs')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1652,7 +1652,7 @@ else if (message.content.startsWith("$Begin thighs")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1669,7 +1669,7 @@ else if (message.content.startsWith("$Begin thighs")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin twerk")){
+else if (message.content.startsWith("$B twerk")){
         message.channel.send('-twerk')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1679,7 +1679,7 @@ else if (message.content.startsWith("$Begin twerk")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1696,7 +1696,7 @@ else if (message.content.startsWith("$Begin twerk")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin underboob")){
+else if (message.content.startsWith("$B underboob")){
         message.channel.send('-underboob')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1706,7 +1706,7 @@ else if (message.content.startsWith("$Begin underboob")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1723,7 +1723,7 @@ else if (message.content.startsWith("$Begin underboob")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin uniform")){
+else if (message.content.startsWith("$B uniform")){
         message.channel.send('-uniform')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1733,7 +1733,7 @@ else if (message.content.startsWith("$Begin uniform")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
@@ -1750,7 +1750,7 @@ else if (message.content.startsWith("$Begin uniform")){
         },4000)
     }
         
-else if (message.content.startsWith("$Begin yoga")){
+else if (message.content.startsWith("$B yoga")){
         message.channel.send('-yoga')
         var wrd ='';
         var mylet = [1,2,3,4,5,6,7,8,9];
@@ -1760,7 +1760,7 @@ else if (message.content.startsWith("$Begin yoga")){
     	        wrd += str.slice(i,i+1);
                 }
 }
-        var i=1;
+        var i=0;
         var wrd = parseInt(wrd);
         if (wrd>5){
             var wrd = 5;
