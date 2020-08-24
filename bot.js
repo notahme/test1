@@ -49,7 +49,7 @@ client.on('message', message => {
         },12000)
        
     }
-    else if (message.content === '$Begin NUDES') {
+    else if (message.content === '$Begin NUDE') {
         message.channel.send('^^nudes')
         var i = 1;
         var myinter = setInterval(function fun(){
@@ -160,6 +160,8 @@ client.on('message', message => {
 
     
 });
+
+
 
 client2.on('message', message => {
     if (message.content === '$Begin PUSSY') {
@@ -199,7 +201,7 @@ client2.on('message', message => {
         },12000)
        
     }
-    else if (message.content === '$Begin NUDES') {
+    else if (message.content === '$Begin NUDE') {
         message.channel.send('^^nudes')
         var i = 1;
         var myinter = setInterval(function fun(){
@@ -310,6 +312,8 @@ client2.on('message', message => {
 
     
 });
+
+
 
 client3.on('message', message => {
     if (message.content === '$Begin PUSSY') {
@@ -349,7 +353,7 @@ client3.on('message', message => {
         },12000)
        
     }
-    else if (message.content === '$Begin NUDES') {
+    else if (message.content === '$Begin NUDE') {
         message.channel.send('^^nudes')
         var i = 1;
         var myinter = setInterval(function fun(){
@@ -460,6 +464,8 @@ client3.on('message', message => {
 
     
 });
+
+
 
 client4.on('message', message => {
     if (message.content === '$Begin PUSSY') {
@@ -499,7 +505,7 @@ client4.on('message', message => {
         },12000)
        
     }
-    else if (message.content === '$Begin NUDES') {
+    else if (message.content === '$Begin NUDE') {
         message.channel.send('^^nudes')
         var i = 1;
         var myinter = setInterval(function fun(){
@@ -610,6 +616,8 @@ client4.on('message', message => {
 
     
 });
+
+
 
 client5.on('message', message => {
     if (message.content === '$Begin PUSSY') {
