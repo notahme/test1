@@ -142,6 +142,10 @@ client.on('message', message => {
         },12000)
     }
     
+    else if (message.content.startsWith("$B1ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
+
     else if (message.content.startsWith("$B1 FUCK")){
         message.channel.send('^^fuck')
         var wrd ='';
