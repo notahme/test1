@@ -1874,6 +1874,9 @@ client2.on('message', message => {
             }
         },12000)
     }
+    else if (message.content.startsWith("$B1ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
     else if (message.content.startsWith("$B1 PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
@@ -3629,6 +3632,9 @@ client3.on('message', message => {
             }
         },12000)
     }
+    else if (message.content.startsWith("$B1ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
     else if (message.content.startsWith("$B1 PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
@@ -5384,6 +5390,9 @@ client4.on('message', message => {
             }
         },12000)
     }
+    else if (message.content.startsWith("$B1ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
     else if (message.content.startsWith("$B1 PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
@@ -7139,6 +7148,9 @@ client5.on('message', message => {
             }
         },12000)
     }
+    else if (message.content.startsWith("$B1ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
     else if (message.content.startsWith("$B1 PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
@@ -8896,6 +8908,9 @@ client6.on('message', message => {
             }
         },12000)
     }
+    else if (message.content.startsWith("$B2ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
     else if (message.content.startsWith("$B2 PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
@@ -10651,6 +10666,9 @@ client7.on('message', message => {
             }
         },12000)
     }
+    else if (message.content.startsWith("$B2ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
     else if (message.content.startsWith("$B2 PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
@@ -12406,6 +12424,9 @@ client8.on('message', message => {
             }
         },12000)
     }
+    else if (message.content.startsWith("$B2ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
     else if (message.content.startsWith("$B2 PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
@@ -14161,6 +14182,9 @@ client9.on('message', message => {
             }
         },12000)
     }
+    else if (message.content.startsWith("$B2ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
     else if (message.content.startsWith("$B2 PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
@@ -15916,6 +15940,9 @@ client10.on('message', message => {
             }
         },12000)
     }
+    else if (message.content.startsWith("$B2ST")){
+        message.channel.send('BOT IS ON :white_check_mark:')
+        }
     else if (message.content.startsWith("$B2 PUSSY")){
         message.channel.send('^^pussy')
         var wrd ='';
