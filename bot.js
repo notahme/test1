@@ -9,6 +9,7 @@ const client7 = new Discord.Client();
 const client8 = new Discord.Client();
 const client9 = new Discord.Client();
 const client10 = new Discord.Client();
+/*
 client.login(process.env.TOKEN);
 client2.login(process.env.TOKEN2);
 client3.login(process.env.TOKEN3);
@@ -19,6 +20,7 @@ client7.login(process.env.TOKEN7);
 client8.login(process.env.TOKEN8);
 client9.login(process.env.TOKEN9);
 client10.login(process.env.TOKEN10);
+*/
 var qeys=['ass','pussy','fuck','nude']
 client.on('message', message => {
 	if (message.content.startsWith("$help")){
